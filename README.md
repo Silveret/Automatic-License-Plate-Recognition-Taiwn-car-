@@ -1,5 +1,6 @@
 # ML2021_FR_License_Plate_Recognition
 車牌辨識(License plate recognition)
+
 功能說明：
    
 方法、及程式架構：
@@ -54,6 +55,7 @@ Tensorflow-gpu =2.4.1
 Keras=2.4.3
 我們有匯出yaml檔可以直接設置，但是是使用cpu
 
+可直接打開gui直接打開匯入圖片即可辨識(UI.py)
  
 環境設置可參考
 https://blog.csdn.net/weixin_42101177/article/details/113512010
