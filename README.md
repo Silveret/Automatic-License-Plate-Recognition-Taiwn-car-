@@ -19,17 +19,19 @@ to do 使用的技術 訓練的過程
 
 環境設置：
 
+
 打開環境資料夾裡面有reqirement.txt進行環境設置
 
 另外提供yaml檔案也可以設置環境
 
-總結
-：
+總結：
+
 優勢：UI簡潔易於使用，可以在mac os及windows進行使用
 
 劣勢：畫面過於簡潔不好看
 
 你可能遇到的問題：
+
 環境設置可參考
 https://blog.csdn.net/weixin_42101177/article/details/113512010
 
